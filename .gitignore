@@ -1,0 +1,42 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+
+# NuGet packages
+**/packages/*
+*.nupkg
+
+# User secrets
+secrets.json
+
+# Configuration files
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Other files
+*.db
+*.db-journal
